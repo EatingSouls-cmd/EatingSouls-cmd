@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EatingSouls-cmd
 - 👀 I’m interested in Eating.
-- 🌱 I’m currently learning Lua and c++...
+- 🌱 I’m currently learning Lua and C++
 
 
 <!---
